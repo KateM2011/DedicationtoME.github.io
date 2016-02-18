@@ -41,8 +41,8 @@
 
 .dropdown-menu {
   font-size: 12px;
-  margin-top: 5px;
-  min-width: 105px;
+  margin-top: 4px;
+  min-width: 95px;
 }
 
 .dropdown-menu li a {
@@ -119,8 +119,8 @@
 }
 
 .slide-feature img {
-  margin-top: 112px;
-  margin-bottom: 28px;
+  margin-top: 95px;
+  margin-bottom: 15px;
 }
 
 .slide-feature a {
