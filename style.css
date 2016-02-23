@@ -14,7 +14,7 @@
   font-family: 'Oswald', sans-serif;
   font-weight: 300;
   
-  font-size: 12px;
+  font-size: 17px;
   padding: 15px;
 }
 
@@ -40,9 +40,9 @@
 /* Dropdown */
 
 .dropdown-menu {
-  font-size: 12px;
-  margin-top: 4px;
-  min-width: 95px;
+  font-size: 16px;
+  margin-top: 5px;
+  min-width: 105px;
 }
 
 .dropdown-menu li a {
@@ -119,8 +119,8 @@
 }
 
 .slide-feature img {
-  margin-top: 95px;
-  margin-bottom: 15px;
+  margin-top: 112px;
+  margin-bottom: 28px;
 }
 
 .slide-feature a {
