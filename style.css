@@ -3,7 +3,10 @@
 .container {
   width: 960px;
 }
-
+/* Body*/
+body {
+    background-image: url("paper.gif");
+}
 
 /* Header */
 
