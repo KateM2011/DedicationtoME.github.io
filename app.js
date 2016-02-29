@@ -1,9 +1,5 @@
 var main = function() {
-  $('.dropdown-toggle').click(function() {
-    $('.dropdown-menu').toggle();
-  });
 
-  
   $('.arrow-next').click(function() {
     var currentSlide = $('.active-slide');
     var nextSlide = currentSlide.next();
@@ -21,6 +17,7 @@ var main = function() {
 
     currentDot.removeClass('active-dot');
     nextDot.addClass('active-dot');
+    return false
   });
 
 
@@ -41,6 +38,7 @@ var main = function() {
 
     currentDot.removeClass('active-dot');
     prevDot.addClass('active-dot');
+     return false
   });
 
 }
